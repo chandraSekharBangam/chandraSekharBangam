@@ -20,7 +20,7 @@ I'm a **passionate Frontend Developer** with 2 years of professional experience,
 - 🔍 **SEO expert** with structured data implementation
 - 📐 Advocate for **clean, scalable, and reusable code**
 - 🤝 Open to collaborating on **React**, **Next.js**, and **TypeScript** projects
-- 📫 Reach me at **[iamchandrasekhar1023@gmail.com](mailto:iamchandrasekhar1023@gmail.com)**
+- 📫 Reach me at **[chandrasekharbangam@gmail.com](mailto:chandrasekharbangam@gmail.com)**
 - ⚡ Fun fact: **I think I am an Introvert person**
 
 <br/>
@@ -124,7 +124,7 @@ const chandrasekhar = {
 [![Naukri](https://img.shields.io/badge/Naukri-4A90E2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACjSURBVHgBrZLBDYMwDEV/EgbIBt2ADdgANmCEjsAGdINugDdgg26QbpBukPtVqVKVA1L/SZHs5+fYMYD/RFUXVd1UdVPVw8wWM1vN7FlV18aYm5ntzGwxs9XMHlV1rT3GDACICIAQEQAQ/wBExB0RdwBARNwRcQcAM1sQ8YKI12BmyyBiGESMg5ltg4hxEDH2IuJORLyJiDsR8RZCeB9FeB1FeB3l+wK6YlH6GzgSkQAAAABJRU5ErkJggg==&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid)
 [![Indeed](https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-jobseeker-profile--profile-one-frontend)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamchendu/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamchandrasekhar1023@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrasekharbangam@gmail.com)
 
 </div>
 
