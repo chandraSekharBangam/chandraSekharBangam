@@ -142,7 +142,7 @@ I believe in staying ahead of the curve. Currently exploring:
 - Advanced TypeScript patterns and generics
 - Micro-frontend architecture
 - Web performance optimization techniques
-- Accessibility (a11y) best practices
+- Accessibility (2y) best practices
 - Design systems and component libraries
 
 <br/>
