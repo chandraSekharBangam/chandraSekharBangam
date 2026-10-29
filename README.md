@@ -12,10 +12,10 @@
 
 ## 🚀 About Me
 
-I'm a **passionate Frontend Developer** with 2 years of professional experience, specializing in building high-performance, scalable, and visually stunning web applications. I transform ideas into seamless digital experiences with clean, maintainable code and premium UI design.
+I'm a **passionate Frontend Developer** with 3 years of professional experience, specializing in building high-performance, scalable, and visually stunning web applications. I transform ideas into seamless digital experiences with clean, maintainable code and premium UI design.
 
 - 🌍 Based in **Hyderabad, India**
-- 💼 **2+ Years** of professional frontend development
+- 💼 **3+ Years** of professional frontend development
 - 🎨 Strong focus on **UI/UX design** and **performance optimization**
 - 🔍 **SEO expert** with structured data implementation
 - 📐 Advocate for **clean, scalable, and reusable code**
@@ -142,7 +142,7 @@ I believe in staying ahead of the curve. Currently exploring:
 - Advanced TypeScript patterns and generics
 - Micro-frontend architecture
 - Web performance optimization techniques
-- Accessibility (2y) best practices
+- Accessibility (3y) best practices
 - Design systems and component libraries
 
 <br/>
